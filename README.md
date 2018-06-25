@@ -1,2 +1,3 @@
 # sparkWordCount
-Sample code to Write a File in HDFS and count number of words using Spark
+
+Its a basic sample code to write a file in HDFS and count the number of words in it.
